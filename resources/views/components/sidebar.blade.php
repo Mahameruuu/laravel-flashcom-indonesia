@@ -4,12 +4,9 @@
         <p class="user-status">Admin <span class="status">Online</span></p>
     </div>
     <ul class="sidebar-menu">
-        <li><a href="#" class="active">Dashboard</a></li>
+        <li><a href="/dashboard" class="active">Dashboard</a></li>
         <li><a href="/students">Student</a></li>
-        <li><a href="#">Customers</a></li>
-        <li><a href="#">Products</a></li>
-        <li><a href="#">Transactions</a></li>
-        <li><a href="#">Reports</a></li>
+        <li><a href="/courses">Kursus</a></li>
     </ul>
     <div class="sidebar-footer">
         <a href="#">Logout</a>
