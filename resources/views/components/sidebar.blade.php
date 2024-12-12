@@ -7,6 +7,7 @@
         <li><a href="/dashboard" class="active">Dashboard</a></li>
         <li><a href="/students">Student</a></li>
         <li><a href="/courses">Kursus</a></li>
+        <li><a href="/mentors">Mentor</a></li>
     </ul>
     <div class="sidebar-footer">
         <a href="#">Logout</a>
